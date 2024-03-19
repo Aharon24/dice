@@ -31,6 +31,6 @@ while i  < j :
         i += 1
     
   #  else:
-  #      print ("The sum of dice is" ,a + b)
+  #      print ("The sum of dice is" ,a + b das)
 #     i == 5 #(?)
     i += 1
